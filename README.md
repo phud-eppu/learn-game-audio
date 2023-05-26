@@ -48,7 +48,7 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 ## **7) Community**
 
 [Airwiggles](https://www.airwiggles.com/)<br/>
-[Unreal Slackers](https://unrealslackers.org/)
+[Unreal Slackers](https://unrealslackers.org/)<br/>
 [Wwise Wwizards & Wwitches (FB group)](https://www.facebook.com/groups/621243211344119)
 
 ## **8) Courses**
