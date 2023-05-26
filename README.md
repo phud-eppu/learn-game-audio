@@ -55,5 +55,12 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 
 [School of Video Game Audio](https://school.videogameaudio.com/)<br/>
 
+## **10) Events**
+
+[Game Developers Conference](https://gdconf.com/)<br/>
+[Audio Developers Conference](https://audio.dev/)<br/>
+[Digital Dragons](https://digitaldragons.pl/)<br/>
+[Game Music and Sound Design Conference](https://www.gamesoundcon.com/)<br/>
+
 
 
