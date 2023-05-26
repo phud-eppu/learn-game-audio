@@ -50,4 +50,8 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 [Airwiggles](https://www.airwiggles.com/)<br/>
 [Unreal Slackers](https://unrealslackers.org/)
 
+## **8) Courses**
+
+[School of Video Game Audio](https://school.videogameaudio.com/)
+
 
