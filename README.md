@@ -41,5 +41,9 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 
 [Ben Gallagher - How to Set Your Game Audio Rates](https://www.thegameaudiopro.com/post/how-to-set-your-game-audio-rates)<br/>
 
+## **7) Inspiration**
+
+[Beep: A Documentary History of Game Sound](https://www.youtube.com/watch?v=nyWpMoqMG0s&list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)<br/>
+
 
 
