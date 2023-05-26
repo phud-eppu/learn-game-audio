@@ -45,13 +45,13 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 
 [Beep: A Documentary History of Game Sound](https://www.youtube.com/watch?v=nyWpMoqMG0s&list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)<br/>
 
-## **7) Community**
+## **8) Community**
 
 [Airwiggles](https://www.airwiggles.com/)<br/>
 [Unreal Slackers](https://unrealslackers.org/)<br/>
 [Wwise Wwizards & Wwitches (FB group)](https://www.facebook.com/groups/621243211344119)
 
-## **8) Courses**
+## **9) Courses**
 
 [School of Video Game Audio](https://school.videogameaudio.com/)<br/>
 
