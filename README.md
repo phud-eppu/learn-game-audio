@@ -62,5 +62,10 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 [Digital Dragons](https://digitaldragons.pl/)<br/>
 [Game Music and Sound Design Conference](https://www.gamesoundcon.com/)<br/>
 
+## **11)Game Jams**
+
+[itch.io gamejam list](https://itch.io/jams)<br/>
+
+
 
 
