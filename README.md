@@ -44,6 +44,7 @@ The Development of Advanced Runtime Sound Systems for Games and Extended Reality
 ## **7) Inspiration**
 
 [Beep: A Documentary History of Game Sound](https://www.youtube.com/watch?v=nyWpMoqMG0s&list=PLNfU10KQ9m1L10rMwINp4kyfcupi-CU9o)<br/>
+[School of Video Game Audio Student Demo Reel Videos](https://www.youtube.com/playlist?list=PL17-p74MQ_0T1SfrMWhjHVYCishxUEz_U)<br/>
 
 ## **8) Community**
 
